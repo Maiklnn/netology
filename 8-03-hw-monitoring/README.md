@@ -18,7 +18,7 @@
    
 **Ответ**
 
-![alt text](https://github.com//Maiklnn/netology_sysadmin/blob/branch/path/image.png)
+![alt text](https://github.com//Maiklnn/netology/blob/master/8-03-hw-monitoring/img/scrin1.jpg)
 
 -----------------------------------------------------------------------------------
 
