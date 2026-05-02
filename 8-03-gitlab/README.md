@@ -30,7 +30,7 @@ Cкриншоты с настройками раннера в проекте
 
 Скриншот 1: репозиторий на GitLab
 
-![alt text](img/3.png) 
+![alt text](files/3.png) 
 
 2. Файлик files\.gitlab-ci.yml
 
